@@ -3,3 +3,9 @@ body{
     padding: 15px;
     margin: 15px;
 }
+
+.destaque{
+    color: brown;
+    text-align: justify;
+    text-transform: uppercase;
+}
