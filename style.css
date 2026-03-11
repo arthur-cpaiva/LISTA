@@ -1,18 +1,18 @@
-body{
+body {
     background-color: cornflowerblue;
     padding: 15px;
     margin: 15px;
 }
 
-.destaque{
+.destaque {
     color: brown;
     text-align: justify;
     text-transform: uppercase;
 }
 
-h2{
-color: burlywood;
-margin-top: 10px;
-font-size: 15px;
-line-height: 1.6;
+h2 {
+    color: burlywood;
+    margin-top: 10px;
+    font-size: 15px;
+    line-height: 1.6;
 }
